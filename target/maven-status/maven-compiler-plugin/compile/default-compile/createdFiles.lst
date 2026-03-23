@@ -1,0 +1,8 @@
+com\pawel\sosin\exception\RailFenceCipherException.class
+com\pawel\sosin\model\Model.class
+com\pawel\sosin\servlets\FormServlet.class
+com\pawel\sosin\servlets\ModelContextListener.class
+com\pawel\sosin\exception\InvalidTextException.class
+com\pawel\sosin\model\HistoryRecord.class
+com\pawel\sosin\servlets\HistoryServlet.class
+com\pawel\sosin\enums\Direction.class

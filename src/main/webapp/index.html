@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rail Fence Cipher</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <form action="FormServlet" name="InputForm">
+            <h2>Rail Fence Cipher</h2>
+            Message: <input type="text" name="message" value="" /><br/>
+            Rails: <input type="text" name="rails" value="2" /><br/>
+            <input type="radio" name="CipherMethod" value="encode" checked="checked" />Encode<br/>
+            <input type="radio" name="CipherMethod" value="decode" />Decode<br/>
+            <input type="submit" value="Run" /><br/>
+        </form>
+        <form action="HistoryServlet" name="History">
+            <h2>History</h2>
+            <input type="submit" value="Show history"/><br/>
+        </form>
+    </body>
+</html>

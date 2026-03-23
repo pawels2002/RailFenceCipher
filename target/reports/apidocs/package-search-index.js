@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.pawel.sosin.enums"},{"l":"com.pawel.sosin.exception"},{"l":"com.pawel.sosin.model"},{"l":"com.pawel.sosin.servlets"}];updateSearchResults();
